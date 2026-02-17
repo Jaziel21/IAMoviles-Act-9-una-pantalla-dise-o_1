@@ -188,7 +188,6 @@ class _TarjetaLibro extends StatelessWidget {
                 ],
               ),
             ),
-            const Icon(Icons.add_shopping_cart, color: Colors.white38),
           ],
         ),
       ),
